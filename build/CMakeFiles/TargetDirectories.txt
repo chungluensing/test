@@ -1,3 +1,0 @@
-C:/Users/37812/Desktop/code_cpp/build/CMakeFiles/myswap.dir
-C:/Users/37812/Desktop/code_cpp/build/CMakeFiles/edit_cache.dir
-C:/Users/37812/Desktop/code_cpp/build/CMakeFiles/rebuild_cache.dir
