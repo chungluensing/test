@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/37812/Desktop/code_cpp/hello.cpp
+sw.h
+C:/Users/37812/Desktop/code_cpp/sw.h
+
+C:/Users/37812/Desktop/code_cpp/sw.cpp
+sw.h
+C:/Users/37812/Desktop/code_cpp/sw.h
+
+C:/Users/37812/Desktop/code_cpp/sw.h
+iostream
+-
+windows.h
+-
+

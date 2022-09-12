@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/37812/Desktop/code_cpp/build",
+  "command": "C:\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\myswap.dir\\hello.cpp.obj -c C:\\Users\\37812\\Desktop\\code_cpp\\hello.cpp",
+  "file": "C:/Users/37812/Desktop/code_cpp/hello.cpp"
+},
+{
+  "directory": "C:/Users/37812/Desktop/code_cpp/build",
+  "command": "C:\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\myswap.dir\\sw.cpp.obj -c C:\\Users\\37812\\Desktop\\code_cpp\\sw.cpp",
+  "file": "C:/Users/37812/Desktop/code_cpp/sw.cpp"
+}
+]
